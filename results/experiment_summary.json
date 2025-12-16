@@ -1,0 +1,43 @@
+{
+  "experiment_info": {
+    "timestamp": "2025-12-12 18:11:26",
+    "data_directory": "/content/drive/MyDrive/AI/Context_Engineering",
+    "results_directory": "/content/drive/MyDrive/AI/Context_Engineering/results",
+    "ollama_model": "deepseek-coder-v2:16b"
+  },
+  "methods": {
+    "GIS Copilot": {
+      "total_tasks": 150,
+      "successful": 0,
+      "task_completion_rate": 0.0,
+      "avg_execution_time": 0,
+      "avg_tokens": 0,
+      "avg_spatial_accuracy": 0
+    },
+    "ShapefileGPT": {
+      "total_tasks": 150,
+      "successful": 0,
+      "task_completion_rate": 0.0,
+      "avg_execution_time": 0,
+      "avg_tokens": 0,
+      "avg_spatial_accuracy": 0
+    },
+    "Li et al.": {
+      "total_tasks": 150,
+      "successful": 0,
+      "task_completion_rate": 0.0,
+      "avg_execution_time": 0,
+      "avg_tokens": 0,
+      "avg_spatial_accuracy": 0
+    },
+    "ContextGeo": {
+      "total_tasks": 150,
+      "successful": 150,
+      "task_completion_rate": 1.0,
+      "avg_execution_time": 25.468277293841044,
+      "avg_tokens": 3276.326666666667,
+      "avg_spatial_accuracy": 0.0,
+      "avg_compression_ratio": 0.0
+    }
+  }
+}
