@@ -1,0 +1,31 @@
+{
+  "download_date": "2025-12-12 17:07:32",
+  "datasets": {
+    "osm": {
+      "path": "/content/drive/MyDrive/AI/Context_Engineering/data/osm",
+      "cities": 10,
+      "features": [
+        "POIs",
+        "Buildings",
+        "Roads"
+      ]
+    },
+    "sentinel2": {
+      "path": "/content/drive/MyDrive/AI/Context_Engineering/data/sentinel2",
+      "scenes": 5,
+      "regions": [
+        "northeast",
+        "southeast",
+        "midwest",
+        "southwest",
+        "west"
+      ]
+    },
+    "uscensus": {
+      "path": "/content/drive/MyDrive/AI/Context_Engineering/data/uscensus",
+      "tracts": 10000,
+      "attributes": 4
+    }
+  },
+  "total_size_mb": 2701.155333518982
+}
