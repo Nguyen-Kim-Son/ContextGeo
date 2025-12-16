@@ -1,0 +1,115 @@
+{
+  "dataset": "OpenStreetMap",
+  "cities": {
+    "new_york": {
+      "name": "New York, NY",
+      "bbox": [
+        -74.026,
+        40.6829,
+        -73.906,
+        40.8529
+      ],
+      "description": "Manhattan, NYC"
+    },
+    "los_angeles": {
+      "name": "Los Angeles, CA",
+      "bbox": [
+        -118.6682,
+        33.7037,
+        -118.1553,
+        34.3373
+      ],
+      "description": "Downtown LA"
+    },
+    "chicago": {
+      "name": "Chicago, IL",
+      "bbox": [
+        -87.9401,
+        41.6445,
+        -87.5238,
+        42.023
+      ],
+      "description": "Chicago Loop + North Side"
+    },
+    "houston": {
+      "name": "Houston, TX",
+      "bbox": [
+        -95.7699,
+        29.523,
+        -95.011,
+        30.11
+      ],
+      "description": "Houston Metro"
+    },
+    "phoenix": {
+      "name": "Phoenix, AZ",
+      "bbox": [
+        -112.3233,
+        33.2945,
+        -111.9286,
+        33.6922
+      ],
+      "description": "Phoenix Downtown"
+    },
+    "philadelphia": {
+      "name": "Philadelphia, PA",
+      "bbox": [
+        -75.2803,
+        39.8671,
+        -74.9558,
+        40.1379
+      ],
+      "description": "Philadelphia Center"
+    },
+    "san_antonio": {
+      "name": "San Antonio, TX",
+      "bbox": [
+        -98.795,
+        29.214,
+        -98.2953,
+        29.6491
+      ],
+      "description": "San Antonio Downtown"
+    },
+    "san_diego": {
+      "name": "San Diego, CA",
+      "bbox": [
+        -117.2713,
+        32.5343,
+        -116.9325,
+        33.1143
+      ],
+      "description": "San Diego Metro"
+    },
+    "dallas": {
+      "name": "Dallas, TX",
+      "bbox": [
+        -97.0409,
+        32.6178,
+        -96.5991,
+        33.0238
+      ],
+      "description": "Dallas Metroplex"
+    },
+    "san_jose": {
+      "name": "San Jose, CA",
+      "bbox": [
+        -122.0583,
+        37.1383,
+        -121.6233,
+        37.4695
+      ],
+      "description": "San Jose Downtown"
+    }
+  },
+  "features": [
+    "POIs (amenity)",
+    "Buildings",
+    "Roads (highways)",
+    "Landuse"
+  ],
+  "source": "Overpass API",
+  "download_date": "2025-12-12",
+  "total_cities": 10,
+  "format": "GeoJSON"
+}
